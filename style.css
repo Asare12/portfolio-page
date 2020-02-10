@@ -27,5 +27,67 @@ span{
     color: white;
     font-size: 40px;
     font-weight: bold;
-    border-bottom: 5px solid #d2691e;;
+    border-bottom: 5px solid #d2691e;
 }
+.fab {
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+  }
+
+  .fa-facebook {
+    background: transparent;
+    color: #d2691e;
+    
+    border-radius: 4px;
+  }
+  .fa-facebook:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-twitter {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-twitter:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-github {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-github:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-linkedin {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-linkedin:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
