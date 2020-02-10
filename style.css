@@ -11,3 +11,10 @@ header.head{
     background-attachment: fixed;
     height: 40em;
 }
+
+.white-text{
+    color: white;
+}
+span{
+    color: #d2691e;
+}
