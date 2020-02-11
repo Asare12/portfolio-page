@@ -91,10 +91,16 @@ span{
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
       border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
+  .hire{
+    background: url(black-pattern.jpg) center top no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 10%;
+    height: 40em;
+  }
   .portforlio{
 
     background: url(wallpaper.jpg) center top no-repeat;
     background-size: cover;
-    /* background-attachment: fixed; */
     height: 30em;
   }
