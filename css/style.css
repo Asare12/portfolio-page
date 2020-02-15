@@ -1,12 +1,24 @@
 .red-text{
    color: red;
 }
+.navbar-brand{
+  font-family: Verdana, Geneva, sans-serif; 
+  font-variant: small-caps;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.fa-circle{
+  background: transparent;
+  color: #d2691e;
+  
+}
 
-header.head{
+.head{
     background:linear-gradient(
         rgba(12, 12, 12, 0.7), 
         rgba(12, 12, 12,0.3)
-      ), url(Businessman-looking-at-city.jpg)center top no-repeat;
+      ), url(../images/Businessman-looking-at-city.jpg)center top no-repeat;
     background-size: cover;
     /* background-attachment: fixed; */
     height: 40em;
@@ -92,7 +104,7 @@ span{
       border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
   .hire{
-    background: url(black-pattern.jpg) center top no-repeat;
+    background: url(../images/black-pattern.jpg) center top no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 10%;
@@ -100,7 +112,7 @@ span{
   }
   .portforlio{
 
-    background: url(wallpaper.jpg) center top no-repeat;
+    background: url(../images/wallpaper.jpg) center top no-repeat;
     background-size: cover;
     height: 30em;
   }
