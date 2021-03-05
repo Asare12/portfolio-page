@@ -1,0 +1,118 @@
+.red-text{
+   color: red;
+}
+.navbar-brand{
+  font-family: Verdana, Geneva, sans-serif; 
+  font-variant: small-caps;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.fa-circle{
+  background: transparent;
+  color: #d2691e;
+  
+}
+
+.head{
+    background:linear-gradient(
+        rgba(12, 12, 12, 0.7), 
+        rgba(12, 12, 12,0.3)
+      ), url(../images/Businessman-looking-at-city.jpg)center top no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    height: 40em;
+}
+.about{
+    background-color: #333;
+    height: 30em;
+}
+
+.white-text{
+    color: white;
+}
+span{
+    color: #d2691e;
+}
+
+.heading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 5px solid #d2691e;
+}
+.fab {
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+  }
+
+  .fa-facebook {
+    background: transparent;
+    color: #d2691e;
+    
+    border-radius: 4px;
+  }
+  .fa-facebook:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-twitter {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-twitter:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-github {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-github:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .fa-linkedin {
+    background: transparent;
+    color: #d2691e;
+    border-radius: 4px;
+  }
+  .fa-linkedin:hover {
+    color: white;
+    border: 1px white solid;
+    background-color: #d2691e;
+    border: 1px solid transparent;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .hire{
+    background: url(../images/black-pattern.jpg) center top no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 10%;
+    height: 40em;
+  }
+  .portforlio{
+
+    background: url(../images/wallpaper.jpg) center top no-repeat;
+    background-size: cover;
+    height: 30em;
+  }
